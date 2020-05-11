@@ -41,7 +41,7 @@ Process:
 ## Run instructions
 1. Set up your local database, run `python mongodb_setup.py`
 
-2. Remeber to modify your own configure information at `config.py`.
+2. Remember to modify your own configure information at `config.py`.
 
 3. Run `python stream_twitter.py` to collect tweets from the Twitter Streaming API
 
